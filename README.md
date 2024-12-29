@@ -1,4 +1,5 @@
-# LipReader-DL
+# LipReader-DL  👁️ 👁️
+                 👄
 A simple deep learning model inspired from the LipNet research paper. An efficient Lip Reading tool.
 
 The LipNet model, introduced by Yannis Assael et al., represents a significant advancement in automated lipreading by enabling end-to-end sentence-level prediction. Traditional methods separated visual feature extraction and sequence modeling, limiting their ability to understand temporal context. LipNet overcomes these challenges by integrating spatiotemporal convolutions, bidirectional Gated Recurrent Units (Bi-GRUs), and Connectionist Temporal Classification (CTC) loss to decode video frames directly into textual sequences.
