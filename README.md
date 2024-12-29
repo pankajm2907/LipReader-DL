@@ -8,3 +8,5 @@ Trained on the GRID corpus, a dataset comprising 34,000 sentences from 34 speake
 LipNet’s innovation lies in its capacity to learn phonologically significant visual features while generalizing across unseen speakers, achieving 88.6% sentence-level accuracy in such scenarios. Data augmentation techniques, including frame deletion and duplication, further enhance its robustness to variations in motion speed. Visual analysis using saliency maps reveals that LipNet focuses on phonologically relevant mouth regions, affirming its interpretability.
 
 The model significantly outperforms benchmarks, including state-of-the-art deep learning and human baselines, demonstrating its efficacy for practical applications like speech recognition in noisy environments, biometric authentication, and silent dictation. Future directions include scaling LipNet to larger datasets and integrating audio-visual cues for robust recognition in diverse settings.
+
+URL and code for data has been included in code. Contact me for checkpoint files upto 96 epochs.
