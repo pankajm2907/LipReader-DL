@@ -11,4 +11,4 @@ LipNet’s innovation lies in its capacity to learn phonologically significant v
 
 The model significantly outperforms benchmarks, including state-of-the-art deep learning and human baselines, demonstrating its efficacy for practical applications like speech recognition in noisy environments, biometric authentication, and silent dictation. Future directions include scaling LipNet to larger datasets and integrating audio-visual cues for robust recognition in diverse settings.
 
-URL and code for data has been included in code. Contact me for checkpoint files upto 96 epochs.
+URL and code for data has been included in code. Contact me for checkpoint files upto 96 epochs and for dlib face landmark dat file. LFS is a pain 🙂
